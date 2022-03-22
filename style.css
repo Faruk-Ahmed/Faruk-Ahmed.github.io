@@ -1,0 +1,39 @@
+html {
+  line-height: 1.4;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+    max-width: 650px;
+    margin: 40px auto;
+    font-family: "Times", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: DarkSlateGray;
+    background-color: Khaki;
+}
+
+name {
+    font-family: "Times", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    color: DarkRed;
+}
+
+/* unvisited link */
+a:link {
+  color: DarkOliveGreen;
+}
+
+/* visited link */
+a:visited {
+  color: RebeccaPurple;
+}
+
+/* mouse over link */
+a:hover {
+  color: DarkMagenta;
+}
+
+/* selected link */
+a:active {
+  color: ForestGreen;
+}
